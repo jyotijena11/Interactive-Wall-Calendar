@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  min-width: 320px;
+}
