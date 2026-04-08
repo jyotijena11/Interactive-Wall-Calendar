@@ -25,6 +25,15 @@ This project is built as a single-page React app with most of the logic and styl
 ## Images:
 #Header_Part(Alpine Edge)![image_alt](https://github.com/jyotijena11/Interactive-Wall-Calendar/blob/59eb2e8b081a149f67d1074aa84e722f6df66d8f/Header_Part(Alpine%20Edge).png)
 
+#Add_Note(Winter Peaks)![image_alt](https://github.com/jyotijena11/Interactive-Wall-Calendar/blob/3af1987ce3e5098fabf3ada523b250b7723bdf62/Add_Note(Winter%20Peaks).png)
+
+#Note_Added(Golden Summit)![image_alt](https://github.com/jyotijena11/Interactive-Wall-Calendar/blob/3af1987ce3e5098fabf3ada523b250b7723bdf62/Note_Add(Golden%20Summit).png)
+
+#Week_End(Forest Escape) ![image_alt](https://github.com/jyotijena11/Interactive-Wall-Calendar/blob/3af1987ce3e5098fabf3ada523b250b7723bdf62/Week_End.png)
+
+#full_Page ![image_alt](https://github.com/jyotijena11/Interactive-Wall-Calendar/blob/3af1987ce3e5098fabf3ada523b250b7723bdf62/full_Page.png)
+
+
 ## Tech Stack
 
 - **React 19**
