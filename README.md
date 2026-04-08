@@ -22,6 +22,9 @@ This project is built as a single-page React app with most of the logic and styl
 
 ---
 
+## Images:
+#Header_Part(Alpine Edge)![image_alt] (https://github.com/jyotijena11/Interactive-Wall-Calendar/blob/59eb2e8b081a149f67d1074aa84e722f6df66d8f/Header_Part(Alpine%20Edge).png)
+
 ## Tech Stack
 
 - **React 19**
